@@ -1,3 +1,7 @@
+
+### POINTS: 2
+### KEY: Really great job Champ! Comments and all.
+
 # JavaScript: Additional events, timers, add attributes
 
 ### Exercise 1:
